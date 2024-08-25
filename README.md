@@ -1,1 +1,4 @@
 # BeatsByDre-DataAnalytics
+
+# Project Overview
+The purpose of this project is to analyze consumer sentiment toward Beats by Dre products; I specifically focused on the Beats By Dre Studio Pro Headphones. By comparing these headphones with similar products from nine other competing brands, including Sony and JBL, I aimed to uncover valuable insights.The key objectives are to gather insights into consumer behavior, identify market trends, and suggest potential product enhancements. By examining review sentiments, ratings, and product attributes, the project aims to highlight strengths and areas for improvement that can inform product development and marketing strategies.Through extensive data analysis, including exploratory data analysis (EDA) and sentiment analysis, I was able to do just that to help Beats by Dre make more informed decisions regarding product development and marketing strategies
